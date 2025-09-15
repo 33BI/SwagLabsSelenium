@@ -1,0 +1,9 @@
+<suite name="SauceDemo Test Suite">
+    <test name="Functional Testing">
+        <classes>
+            <class name="LoginTest"/>
+            <class name="CartTest"/>
+            <class name="CheckoutTest"/>
+        </classes>
+    </test>
+</suite>
